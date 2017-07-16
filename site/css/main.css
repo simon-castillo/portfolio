@@ -28,9 +28,9 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Home Header */
 .headerBackground {
-  background-color: #C4F7F3;
-  margin: 20px 0 20px 0;
-  padding: 10%; }
+  background-color: #3ACBA3;
+  margin-top: 2%;
+  padding: 2% 10% 10% 10%; }
 
 /* Nav */
 .homeLink {
@@ -67,18 +67,19 @@
 
 /* Typography */
 #name {
-  color: #FF5B1B;
-  font-size: 2.7rem;
+  color: #FFF;
+  font-size: 2.4rem;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   text-align: left;
-  letter-spacing: 1px; }
+  letter-spacing: 1px;
+  margin-bottom: 5.4rem; }
 
 #homeBlurb {
-  color: #FF5B1B;
+  color: #FFF;
   text-align: left;
-  font-weight: regular;
-  font-size: 2.4rem;
+  font-weight: 400;
+  font-size: 3.6rem;
   line-height: 1.25;
   margin: 0;
   padding: 0; }
@@ -141,7 +142,7 @@ img {
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 85%;
+    width: 80%;
     padding: 0; } }
 
 /* For devices larger than 550px */
