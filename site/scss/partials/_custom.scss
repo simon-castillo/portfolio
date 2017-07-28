@@ -1,0 +1,97 @@
+/* SC Added
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Home Header */
+
+.body {background-color: $backgroundColour;}
+
+.headerBackground {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $mainColour;
+  padding: 5.4rem;
+  height: 50rem;
+}
+
+/* Nav */
+
+@media (min-width: 550px) {
+.primaryNav {
+  margin: 2.4rem 0;
+ul {
+  float: right;
+    li {
+      font-size: 3.6rem;
+      display: inline;
+      margin-left: 40px;
+      line-height: 1.5;
+      }
+    }
+  }
+}
+
+.nav {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+.nav li {
+  display: inline;
+  padding: 0 3rem 0 0;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+.nav a {color:#FFFFFF}
+
+
+/* Typography */
+
+#name {
+  font-size: 3.6rem;
+  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+  sans-serif;
+  font-weight: 900;
+  text-align: left;
+  letter-spacing: 1px;
+  margin-top: 2.4rem;
+}
+
+#homeBlurb {
+  text-align: center;
+  font-weight: 400;
+  font-size: 4.2rem;
+  line-height: 5.4rem;
+  margin: 0;
+  padding:0;
+}
+
+.homeProject {
+  margin: 5.4rem 0;
+  border: 1px solid $backgroundColour;
+  text-align: center;
+  img {
+    width: 100%;
+  }
+}
+
+/* Footer */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin: 8.1rem 0 2.7rem 0;
+  padding: 5.4rem;
+  border-top: 1px solid $mainColour;
+  ul {
+    li {
+      font-size: 2.4rem;
+      display: inline;
+      padding: 0 2.7rem;
+    }
+  }
+}
+
+/* Images */
+
+img {
+  max-width:100%;
+}
