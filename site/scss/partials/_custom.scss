@@ -9,14 +9,14 @@
   justify-content: center;
   align-items: center;
   background-color: $mainColour;
-  padding: 5.4rem;
+  padding: 2.7rem;
   height: 50rem;
 }
 
 /* Nav */
 
 @media (min-width: 550px) {
-.primaryNav {
+.primary-nav {
   margin: 2.4rem 0;
 ul {
   float: right;
@@ -35,7 +35,7 @@ ul {
 .nav li {
   display: inline;
   padding: 0 3rem 0 0;
-  font-size: 1.5rem;
+  font-size: 2.47rem;
   text-decoration: underline;
 }
 .nav a {color:#FFFFFF}
@@ -43,11 +43,11 @@ ul {
 
 /* Typography */
 
-#name {
-  font-size: 3.6rem;
+.name {
+  font-size: 2.47rem;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
   sans-serif;
-  font-weight: 900;
+  font-weight: 700;
   text-align: left;
   letter-spacing: 1px;
   margin-top: 2.4rem;
@@ -56,7 +56,7 @@ ul {
 #homeBlurb {
   text-align: center;
   font-weight: 400;
-  font-size: 4.2rem;
+  font-size: 3.211rem;
   line-height: 5.4rem;
   margin: 0;
   padding:0;
@@ -68,6 +68,9 @@ ul {
   text-align: center;
   img {
     width: 100%;
+  }
+  h2 {
+    font-size: 2.47rem;
   }
 }
 
@@ -92,10 +95,29 @@ ul {
 
 .image-row {
   text-align: center;
-  margin: 8.1rem 0 10.8rem 0;
+    img {
+      margin: 8.1rem 0 8.1rem 0;
+      max-width: 100%;
+    }
 }
 
-/* Product pages */
+.poster-row {
+  margin-top: 5.4rem;
+  text-align: center;
+    img {
+      display: inline-block;
+      max-height: 40rem;
+    }
+}
+
+/* Project pages */
+
+.project-intro {
+  font-size: 2.7rem;
+  line-height: 4.05rem;
+  text-align: center;
+  margin: 5.4rem 0 5.4em;
+}
 
 .project-info {
   background-color: $mainColour;
@@ -108,4 +130,13 @@ ul {
     p {
       margin: 1rem;
     }
+}
+
+h2.multi-project-page::before {
+  content: "";
+  display:block;
+  margin: 1rem 0 2rem 0;
+  height: 10px;
+  width: 5.4rem;
+  background-color: $accentColour;
 }

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1280px" height="1087px" viewBox="0 0 1280 1087" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>B - Abuses Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="165" height="30" rx="5"></rect>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B---Abuses-Copy-4">
+            <g id="Header" transform="translate(0.000000, 63.000000)">
+                <rect id="Rectangle-23" fill="#005EA5" x="0" y="0" width="1280" height="139"></rect>
+                <text id="Performance-dashboar" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="36" font-weight="bold" line-spacing="44" fill="#FFFFFF">
+                    <tspan x="47" y="79">Performance dashboard </tspan>
+                </text>
+            </g>
+            <path d="M48.7137009,586 L1228.5,586" id="Line-Copy-8" stroke="#989898" stroke-width="2" stroke-linecap="square"></path>
+            <g id="TypeAhead" transform="translate(1033.000000, 91.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="0.5" y="0.5" width="164" height="29" rx="5"></rect>
+                </g>
+                <text id="Type-something" font-family="FontAwesome" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="136" y="20"></tspan>
+                </text>
+                <text id="All-users" font-family="GDSTransportWebsite, GDS Transport Website" font-size="15" font-weight="300" line-spacing="22" fill="#000000">
+                    <tspan x="11" y="21">All users</tspan>
+                </text>
+            </g>
+            <text id="Category-1" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="30" font-weight="bold" line-spacing="27" fill="#000000">
+                <tspan x="48" y="271">Category 1</tspan>
+            </text>
+            <text id="Drill-down" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="25" font-weight="bold" line-spacing="27" fill="#000000">
+                <tspan x="48" y="642">Drill-down</tspan>
+            </text>
+            <text id="Largest-movers" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="25" font-weight="bold" line-spacing="27" fill="#000000">
+                <tspan x="48" y="305">Largest movers</tspan>
+            </text>
+            <rect id="Background" fill="#000000" x="0" y="0" width="1285" height="63"></rect>
+            <g id="search19-+-Rectangle-151-Copy-+-Search" transform="translate(861.000000, 26.000000)" font-size="16" font-family="GDSTransportWebsite, GDS Transport Website" line-spacing="22" fill="#000000" font-weight="300">
+                <text id="Search">
+                    <tspan x="0" y="15">Search</tspan>
+                </text>
+            </g>
+            <text id="Username" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="26" fill="#C9C9C9">
+                <tspan x="1110" y="38">Username</tspan>
+            </text>
+            <text id="Help" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="26" fill="#FFFFFF">
+                <tspan x="984" y="38">Help</tspan>
+            </text>
+            <text id="Type-something" font-family="FontAwesome" font-size="24" font-weight="normal" fill-opacity="0.897814764" fill="#FFFFFF">
+                <tspan x="1032" y="40"></tspan>
+            </text>
+            <text id="" font-family="FontAwesome" font-size="20" font-weight="normal" fill="#FFFFFF">
+                <tspan x="923.645669" y="38"></tspan>
+            </text>
+            <text id="Search" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="26" fill="#FFFFFF">
+                <tspan x="857" y="38">Search</tspan>
+            </text>
+            <g id="GovUK-Crown" transform="translate(46.000000, 21.000000)" fill="#FFFFFF">
+                <path d="M5.72982093,5.62868877 C6.47789963,5.93361125 7.3264839,5.58512842 7.63114875,4.85416724 C7.93767912,4.12551085 7.58707553,3.27827349 6.83911343,2.97473388 C6.105959,2.67730195 5.25364366,3.03269912 4.94851243,3.76412125 C4.6434978,4.4926624 4.99631671,5.33171779 5.72982093,5.62868877" id="Fill-2"></path>
+                <path d="M1.85882949,8.49833453 C2.60692926,8.80313512 3.45565405,8.45454466 3.76021088,7.72394514 C4.06663329,6.99507416 3.71625302,6.14785529 2.96815325,5.8443223 C2.23509476,5.54689685 1.3825222,5.9020558 1.07749898,6.63403816 C0.772592351,7.361872 1.1253046,8.20113956 1.85882949,8.49833453" id="Fill-3"></path>
+                <path d="M0.89108439,12.3243559 C1.63927038,12.6292806 2.48784411,12.2806799 2.79250516,11.5498285 C3.09891513,10.8211666 2.7483159,9.97380766 2.0004797,9.67049625 C1.26745097,9.37283159 0.414913036,9.72834668 0.109785604,10.4600048 C-0.195225233,11.1880905 0.157705885,12.0273827 0.89108439,12.3243559" id="Fill-4"></path>
+                <path d="M10.5685009,6.58527039 C11.316467,6.89008454 12.1652891,6.54159381 12.4699555,5.81084655 C12.7762544,5.08194316 12.4258821,4.2346866 11.677916,3.9313706 C10.9447576,3.63370144 10.0922045,3.98922191 9.7873048,4.72066061 C9.48217194,5.44875731 9.83487615,6.28829268 10.5685009,6.58527039" id="Fill-5"></path>
+                <path d="M25.2380292,5.62868877 C24.4898692,5.93361125 23.641325,5.58512842 23.3364414,4.85416724 C23.0302753,4.12551085 23.3805125,3.27827349 24.1284393,2.97473388 C24.8617923,2.67730195 25.7140674,3.03269912 26.0191842,3.76412125 C26.324301,4.4926624 25.9713822,5.33171779 25.2380292,5.62868877" id="Fill-6"></path>
+                <path d="M28.1410639,8.49833453 C27.392869,8.80313512 26.5444018,8.45454466 26.2397371,7.72394514 C25.9334401,6.99507416 26.2836937,6.14785529 27.031772,5.8443223 C27.7649261,5.54689685 28.6173576,5.9020558 28.9224886,6.63403816 C29.2275031,7.361872 28.8744512,8.20113956 28.1410639,8.49833453" id="Fill-7"></path>
+                <path d="M29.1087494,12.3243559 C28.3609987,12.6292806 27.5121565,12.2806799 27.2075993,11.5498285 C26.90106,10.8211666 27.2514406,9.97380766 27.9994245,9.67049625 C28.7327169,9.37283159 29.5850571,9.72834668 29.8900806,10.4600048 C30.1953373,11.1880905 29.8423916,12.0273827 29.1087494,12.3243559" id="Fill-8"></path>
+                <path d="M20.3991484,6.58527039 C19.6511001,6.89008454 18.8026669,6.54159381 18.4977813,5.81084655 C18.1914966,5.08194316 18.5418527,4.2346866 19.2897844,3.9313706 C20.0230257,3.63370144 20.875423,3.98922191 21.1805418,4.72066061 C21.485544,5.44875731 21.1326228,6.28829268 20.3991484,6.58527039" id="Fill-9"></path>
+                <path d="M16.9655922,4.17123642 L16.9716397,4.16634928 L19.3548387,5.2601431 L19.3548387,2.19128601 L16.97421,2.84972849 L16.9677088,2.84352051 C16.9007319,2.76691135 16.8236253,2.69849145 16.736389,2.63958165 L16.730039,2.63363784 L17.6876729,0 L15.9677419,0.00013208475 L14.2473574,0 L15.2051425,2.63363784 L15.1984901,2.63958165 C15.1117074,2.69849145 15.033996,2.76691135 14.9677751,2.84352051 L14.9606692,2.84972849 L12.5806452,2.19128601 L12.5806452,5.2601431 L14.9638441,4.16634928 L14.9695893,4.17123642 C15.0401948,4.2519402 15.1228954,4.32366222 15.2158769,4.3844212 L13.847159,7.99178782 C13.8454959,7.9962787 13.8436816,8.0006375 13.8420186,8.0049963 L13.8408091,8.00882675 L13.8411114,8.00909092 C13.7774607,8.18938661 13.7434431,8.38038116 13.7434431,8.57864037 C13.7434431,9.55461459 14.5674254,10.3601995 15.6408704,10.4986243 C15.6567453,10.5008697 15.6723178,10.5031152 15.6884951,10.5048323 C15.7799647,10.5151349 15.8724926,10.5217391 15.9672884,10.5217391 L15.9680443,10.5217391 C16.0623865,10.5217391 16.1550656,10.5151349 16.2469888,10.5048323 C16.2625613,10.5031152 16.278285,10.5008697 16.2944623,10.4986243 C17.3676049,10.3601995 18.1920408,9.55461459 18.1920408,8.57864037 C18.1920408,8.38038116 18.1574184,8.18938661 18.0940701,8.00909092 L18.0943724,8.00882675 L18.0931629,8.0049963 C18.091651,8.0006375 18.0895344,7.9962787 18.0877201,7.99178782 L16.7194558,4.3844212 C16.8121349,4.32366222 16.8951379,4.2519402 16.9655922,4.17123642" id="Fill-10"></path>
+                <path d="M14.9975398,21.2185482 C18.8727939,21.2185482 22.5410001,21.4995383 25.8092244,22 C26.7371204,17.8264377 27.866367,15.4346964 29.0322581,13.7318519 L26.8365656,12.8959479 C27.0551378,14.0887703 27.090099,14.6439614 26.8453706,15.4105878 C26.483328,15.0319162 26.1403199,14.3352602 25.8724135,13.2708785 L24.8088163,17.0616125 C25.4559868,16.5845667 25.955155,16.2764197 26.5261879,16.2615943 C25.5130901,18.5956966 24.2487898,19.1966109 23.4292735,19.0343627 C22.4283474,18.8378913 21.968543,17.8831068 22.1236671,17.0733897 C22.353634,15.9255977 23.4543937,15.6264569 23.9684528,16.9612985 C24.9515098,14.8152157 23.2836018,14.1466864 22.2100342,14.7815468 C23.8589077,13.0220332 24.0475687,11.4580211 22.7167125,9.56521739 C20.8626038,11.081705 20.8407207,12.5837828 21.6752574,14.6967509 C20.5924962,13.3707768 18.9074962,14.0826739 19.5160799,16.2252928 C20.2971389,14.9317407 21.3306954,15.7453373 21.1684496,16.9737685 C21.031583,18.0449394 19.7103088,18.9095244 18.0653198,18.7561437 C15.70777,18.5273889 15.5674072,16.7867188 15.5086206,15.3461595 C16.0884585,15.2310201 17.1318559,15.805886 18.0216831,17.143083 L18.3496709,13.1224858 C17.3813753,14.2021086 16.5017775,14.4068933 15.5246769,14.440008 C15.8499455,13.3542888 17.3446013,11.5751004 17.3446013,11.5751004 L15.1728637,11.5748232 L15.1707919,11.5748232 L12.6551397,11.5751004 C12.6551397,11.5751004 14.149925,13.3542888 14.4749347,14.440008 C13.498093,14.4068933 12.6184952,14.2021086 11.6499407,13.1224858 L11.9781874,17.143083 C12.8682735,15.805886 13.9115415,15.2310201 14.4911204,15.3461595 C14.4327222,16.7867188 14.2921006,18.5273889 11.9345507,18.7561437 C10.2894323,18.9095244 8.96841705,18.0449394 8.83142096,16.9737685 C8.66904564,15.7453373 9.70260213,14.9317407 10.4836611,16.2252928 C11.0923744,14.0826739 9.40724478,13.3707768 8.32474261,14.6967509 C9.1590203,12.5837828 9.13713718,11.081705 7.28315799,9.56521739 C5.95217237,11.4580211 6.14070385,13.0220332 7.78957737,14.7815468 C6.71600973,14.1466864 5.04823127,14.8152157 6.03128826,16.9612985 C6.54547679,15.6264569 7.64636596,15.9255977 7.87646241,17.0733897 C8.03158652,17.8831068 7.57113464,18.8378913 6.57085603,19.0343627 C5.75133973,19.1966109 4.4866509,18.5956966 3.47355317,16.2615943 C4.04484499,16.2764197 4.54349521,16.5845667 5.19118371,17.0616125 L4.12758648,13.2708785 C3.8591622,14.3352602 3.51667198,15.0319162 3.1544999,15.4105878 C2.90977154,14.6439614 2.94460325,14.0887703 3.162787,12.8959479 L0.967741935,13.7318519 C2.13376251,15.4344193 3.26249115,17.8258835 4.19025766,21.9990301 C7.45744602,21.4991226 11.1239689,21.2185482 14.9975398,21.2185482" id="Fill-11"></path>
+            </g>
+            <text id="Overview" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" fill="#FFFFFF">
+                <tspan x="48" y="195">Overview</tspan>
+            </text>
+            <path d="M249,200 L161.494118,200" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            <text id="Category-3" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" fill="#FFFFFF">
+                <tspan x="440" y="195">Category 3</tspan>
+            </text>
+            <text id="Category-2" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" fill="#FFFFFF">
+                <tspan x="299" y="195">Category 2</tspan>
+            </text>
+            <text id="Category-1" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="19" font-weight="bold" line-spacing="21" fill="#FFFFFF">
+                <tspan x="160" y="197">Category 1</tspan>
+            </text>
+            <text id="Category-4" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" fill="#FFFFFF">
+                <tspan x="581" y="195">Category 4</tspan>
+            </text>
+            <text id="223" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="16" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1097" y="767">223</tspan>
+            </text>
+            <g id="Date-range" transform="translate(943.000000, 136.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="255" height="61" rx="5"></rect>
+                <text id="Type-something" font-family="FontAwesome" font-size="15" font-weight="normal" fill="#000000">
+                    <tspan x="228.690476" y="48"></tspan>
+                </text>
+                <text id="01-Jan---31-Jan" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="22" fill="#A66800">
+                    <tspan x="100.004953" y="26">01 Jan  - 31 Jan </tspan>
+                </text>
+                <text id="vs.-previous-year" font-family="GDSTransportWebsite, GDS Transport Website" font-size="15" font-weight="300" line-spacing="22" fill="#0060A5">
+                    <tspan x="109.371164" y="49">vs. previous year</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(49.000000, 673.000000)">
+                <g id="Graph-Copy">
+                    <path d="M0.684701663,172.5 L1178.21646,172.5" id="Line-Copy-9" stroke="#969696" stroke-linecap="square"></path>
+                    <path d="M0.684701663,115.5 L1178.21646,115.5" id="Line-Copy-10" stroke="#F2F2F2" stroke-linecap="square"></path>
+                    <path d="M0.684701663,58.5 L1178.21646,58.5" id="Line-Copy-11" stroke="#F2F2F2" stroke-linecap="square"></path>
+                    <path d="M0.684701663,1.5 L1178.21646,1.5" id="Line-Copy-12" stroke="#F2F2F2" stroke-linecap="square"></path>
+                    <text id="5" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="2.03598972" y="128">5</tspan>
+                    </text>
+                    <text id="05/01" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="93.1156812" y="187">05/01</tspan>
+                    </text>
+                    <text id="10/01" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="292.580206" y="187">10/01</tspan>
+                    </text>
+                    <text id="15/01" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="489.00874" y="187">15/01</tspan>
+                    </text>
+                    <text id="20/01" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="688.473265" y="187">20/01</tspan>
+                    </text>
+                    <text id="25/01" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="881.86581" y="187">25/01</tspan>
+                    </text>
+                    <text id="30/01" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="1096.51028" y="187">30/01</tspan>
+                    </text>
+                    <text id="10" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="2.03598972" y="69">10</tspan>
+                    </text>
+                    <text id="15" font-family="GDSTransportWebsite, GDS Transport Website" font-size="10" font-weight="300" fill="#000000">
+                        <tspan x="2.03598972" y="14">15</tspan>
+                    </text>
+                    <polyline id="Path-28" stroke="#005EA5" stroke-width="3" points="0.412743262 156.1875 153.705305 116.300781 340.617578 110.523438 531.864965 85.8710938 716.790311 130.621094 916.945003 138.703125 1178.43902 22.9189453"></polyline>
+                    <polyline id="Path-28" stroke="#A66800" stroke-width="3" points="0.412743262 146.1875 153.705305 106.300781 341.588756 111.027023 531.864965 75.8710938 713.282966 100.523438 917.702867 141.825402 1178.43902 12.9189453"></polyline>
+                    <polygon id="Path-29" fill-opacity="0.0700000003" fill="#005EA5" points="4.1819445 156.302734 156.362243 116.142578 344.791673 110.330078 535.710725 85.9355469 720.538388 131.074219 920.210638 138.886719 1178.54427 23.8242188 1178.54427 172.955244 0.517994859 172.955244 0.517994859 158.582641"></polygon>
+                    <polygon id="Path-29" fill-opacity="0.0700000003" fill="#005EA5" points="4.1819445 156.302734 156.362243 116.142578 344.791673 110.330078 535.710725 85.9355469 607.942392 103.575988 720.538388 131.074219 920.210638 138.886719 1178.54427 23.8242188 1178.54427 172.955244 0.517994859 172.955244 0.517994859 158.582641"></polygon>
+                </g>
+            </g>
+            <g id="Level-1-abuses" transform="translate(42.000000, 916.000000)">
+                <rect id="Rectangle-2" fill="#F5F5F5" x="0" y="32" width="337" height="27"></rect>
+                <g id="Column-3---delta" transform="translate(295.000000, 0.000000)" font-size="16">
+                    <text id="0%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#000000">
+                        <tspan x="14.9453125" y="168">0%</tspan>
+                    </text>
+                    <text id="+-1%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="7.8203125" y="138">+ 1%</tspan>
+                    </text>
+                    <text id="+-1%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="7.8203125" y="109">+ 1%</tspan>
+                    </text>
+                    <text id="+-4%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="3.390625" y="80">+ 4%</tspan>
+                    </text>
+                    <text id="+-3%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="3.8203125" y="51">+ 3%</tspan>
+                    </text>
+                    <text id="Delta" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" text-decoration="underline" fill="#005EA5">
+                        <tspan x="0.234375" y="15">Delta</tspan>
+                    </text>
+                </g>
+                <g id="Column-2---total" transform="translate(220.000000, 0.000000)" font-size="16" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                    <text id="54" fill="#000000">
+                        <tspan x="31" y="168">54</tspan>
+                    </text>
+                    <text id="56" fill="#000000">
+                        <tspan x="31" y="138">56</tspan>
+                    </text>
+                    <text id="159" fill="#000000">
+                        <tspan x="24" y="109">159</tspan>
+                    </text>
+                    <text id="371" fill="#000000">
+                        <tspan x="25" y="80">371</tspan>
+                    </text>
+                    <text id="453" fill="#000000">
+                        <tspan x="19" y="51">453</tspan>
+                    </text>
+                    <text id="Number" text-decoration="underline" fill="#005EA5">
+                        <tspan x="-1.7578125" y="15">Number</tspan>
+                    </text>
+                </g>
+                <g id="Column-1---labels" transform="translate(6.000000, 0.000000)" fill="#005EA5" font-size="16">
+                    <text id="Sub-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" line-spacing="27">
+                        <tspan x="0" y="80">Sub-category</tspan>
+                    </text>
+                    <text id="Sub-category-a" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" line-spacing="27">
+                        <tspan x="0" y="51">Sub-category a</tspan>
+                    </text>
+                    <text id="Sub-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" line-spacing="27">
+                        <tspan x="0" y="109">Sub-category</tspan>
+                    </text>
+                    <text id="Sub-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" line-spacing="27">
+                        <tspan x="0" y="138">Sub-category</tspan>
+                    </text>
+                    <text id="Sub-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" line-spacing="27">
+                        <tspan x="0" y="168">Sub-category</tspan>
+                    </text>
+                    <text id="Main-category" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" text-decoration="underline">
+                        <tspan x="0" y="15">Main category</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle-2" fill="#F5F5F5" x="422" y="977" width="387" height="27"></rect>
+            <g id="Level-2-abuses" transform="translate(427.000000, 920.000000)" font-size="16">
+                <g id="Column-1---label" transform="translate(0.000000, 32.000000)" line-spacing="27" fill="#005EA5">
+                    <text id="3rd-level-category-a" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="44">3rd level category a</tspan>
+                    </text>
+                    <text id="3rd-level-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="72">3rd level category</tspan>
+                    </text>
+                    <text id="3rd-level-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="101">3rd level category</tspan>
+                    </text>
+                    <text id="3rd-level-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="129">3rd level category</tspan>
+                    </text>
+                    <text id="Sub-category" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" text-decoration="underline">
+                        <tspan x="0" y="15">Sub-category</tspan>
+                    </text>
+                </g>
+                <g id="Column-2---total" transform="translate(260.000000, 0.000000)" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                    <text id="15" fill="#000000">
+                        <tspan x="43.640625" y="160">15</tspan>
+                    </text>
+                    <text id="5" fill="#000000">
+                        <tspan x="49.546875" y="132">5</tspan>
+                    </text>
+                    <text id="20" fill="#000000">
+                        <tspan x="38.4296875" y="104">20</tspan>
+                    </text>
+                    <text id="100" fill="#000000">
+                        <tspan x="32" y="75">100</tspan>
+                    </text>
+                    <text id="453-copy" fill="#000000">
+                        <tspan x="27.8359375" y="47">453</tspan>
+                    </text>
+                    <text id="Number" text-decoration="underline" fill="#005EA5">
+                        <tspan x="0.2421875" y="15">Number</tspan>
+                    </text>
+                </g>
+                <g id="Column-3---delta" transform="translate(333.000000, 0.000000)">
+                    <text id="0%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#000000">
+                        <tspan x="21.9453125" y="160">0%</tspan>
+                    </text>
+                    <text id="+-2%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="10.8828125" y="132">+ 2%</tspan>
+                    </text>
+                    <text id="+-3%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="10.8203125" y="104">+ 3%</tspan>
+                    </text>
+                    <text id="+-50%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="0.6640625" y="75">+ 50%</tspan>
+                    </text>
+                    <text id="+-4%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="10.390625" y="47">+ 4%</tspan>
+                    </text>
+                    <text id="Delta" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" text-decoration="underline" fill="#005EA5">
+                        <tspan x="7.234375" y="15">Delta</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Level-3-abuses" transform="translate(853.000000, 951.000000)">
+                <rect id="Rectangle-2" fill="#F5F5F5" x="0" y="52" width="387" height="27"></rect>
+                <g id="Column-1---label" transform="translate(5.000000, 27.000000)" line-spacing="27" fill="#005EA5" font-size="16">
+                    <text id="4th-level-category-a" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="44">4th level category a</tspan>
+                    </text>
+                    <text id="4th-level-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="72">4th level category</tspan>
+                    </text>
+                    <text id="4th-level-category" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                        <tspan x="0" y="101">4th level category</tspan>
+                    </text>
+                    <text id="3rd-level-category" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" text-decoration="underline">
+                        <tspan x="0" y="15">3rd level category</tspan>
+                    </text>
+                </g>
+                <g id="Column-2---total" transform="translate(267.000000, 0.000000)" font-size="16" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300">
+                    <text id="40" fill="#000000">
+                        <tspan x="36.828125" y="127">40</tspan>
+                    </text>
+                    <text id="19" fill="#000000">
+                        <tspan x="40.234375" y="99">19</tspan>
+                    </text>
+                    <text id="20" fill="#000000">
+                        <tspan x="36.4296875" y="70">20</tspan>
+                    </text>
+                    <text id="100" fill="#000000">
+                        <tspan x="29" y="42">100</tspan>
+                    </text>
+                    <text id="Number" text-decoration="underline" fill="#005EA5">
+                        <tspan x="-1.7578125" y="15">Number</tspan>
+                    </text>
+                </g>
+                <g id="Column-3---delta" transform="translate(338.000000, 0.000000)" font-size="16">
+                    <text id="+-1%-copy" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="14.8203125" y="127">+ 1%</tspan>
+                    </text>
+                    <text id="+-1%-copy-2" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="14.8203125" y="99">+ 1%</tspan>
+                    </text>
+                    <text id="+-3%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="10.8203125" y="70">+ 3%</tspan>
+                    </text>
+                    <text id="+-50%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-weight="bold" fill="#AF1324">
+                        <tspan x="0.6640625" y="42">+ 50%</tspan>
+                    </text>
+                    <text id="Delta" font-family="GDSTransportWebsite, GDS Transport Website" font-weight="300" text-decoration="underline" fill="#005EA5">
+                        <tspan x="7.234375" y="15">Delta</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="4th-level-category-a" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="18" font-weight="bold" line-spacing="27" fill="#6D6D6D">
+                <tspan x="560.35791" y="700">4th level category a</tspan>
+            </text>
+            <g id="Group-3" transform="translate(146.000000, 348.000000)">
+                <g id="Group-8" transform="translate(49.000000, 165.000000)">
+                    <text id="42%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="30" font-weight="bold" fill="#BC1E37">
+                        <tspan x="28" y="29">42%</tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome" font-size="25" font-weight="normal" fill="#B6182D">
+                        <tspan x="0" y="27"></tspan>
+                    </text>
+                </g>
+                <text id="Metric-a" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="27" fill="#005CA8">
+                    <tspan x="58.5737305" y="149">Metric a</tspan>
+                </text>
+                <g id="Mini-graph" transform="translate(57.000000, 0.000000)">
+                    <path d="M0.5,115.5 L69.5,115.5" id="Line-Copy-9" stroke="#969696" stroke-linecap="square"></path>
+                    <rect id="Rectangle-2" fill="#A66800" x="45" y="23" width="15" height="92"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#0060A5" x="9" y="50" width="15" height="65"></rect>
+                    <text id="56" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#A66800">
+                        <tspan x="42" y="15">56</tspan>
+                    </text>
+                    <text id="39" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#0060A5">
+                        <tspan x="7" y="43">39</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-3-Copy-2" transform="translate(549.000000, 416.000000)">
+                <g id="Group-8" transform="translate(49.000000, 97.000000)">
+                    <text id="15%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="30" font-weight="bold" fill="#C62D4D">
+                        <tspan x="28" y="29">15%</tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome" font-size="25" font-weight="normal" fill="#BC1E37">
+                        <tspan x="0" y="27"></tspan>
+                    </text>
+                </g>
+                <text id="Metric-c" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="27" fill="#005CA8">
+                    <tspan x="58.494873" y="81">Metric c</tspan>
+                </text>
+                <g id="Mini-graph" transform="translate(57.000000, 0.000000)">
+                    <path d="M0.5,47.5 L69.5,47.5" id="Line-Copy-9" stroke="#969696" stroke-linecap="square"></path>
+                    <rect id="Rectangle-2" fill="#A66800" x="45" y="22" width="15" height="25"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#0060A5" x="9" y="25" width="15" height="22"></rect>
+                    <text id="5" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#A66800">
+                        <tspan x="47.2734375" y="15">5</tspan>
+                    </text>
+                    <text id="4" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#0060A5">
+                        <tspan x="11.9375" y="19">4</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-3-Copy-3" transform="translate(750.000000, 348.000000)">
+                <g id="Group-8" transform="translate(52.000000, 165.000000)">
+                    <text id="14%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="30" font-weight="bold" fill="#C62D4D">
+                        <tspan x="29.3198242" y="29">14%</tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome" font-size="25" font-weight="normal" fill="#C12542">
+                        <tspan x="0" y="27"></tspan>
+                    </text>
+                </g>
+                <text id="Metric-d" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="27" fill="#005CA8">
+                    <tspan x="58.0217285" y="149">Metric d</tspan>
+                </text>
+                <g id="Mini-graph" transform="translate(57.000000, 0.000000)">
+                    <path d="M0.5,115.5 L69.5,115.5" id="Line-Copy-9" stroke="#969696" stroke-linecap="square"></path>
+                    <rect id="Rectangle-2" fill="#A66800" x="45" y="23" width="15" height="92"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#0060A5" x="9" y="34" width="15" height="81"></rect>
+                    <text id="56" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#A66800">
+                        <tspan x="42" y="15">56</tspan>
+                    </text>
+                    <text id="49" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#0060A5">
+                        <tspan x="7" y="26">49</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-3-Copy-4" transform="translate(955.000000, 348.000000)">
+                <g id="Group-8" transform="translate(50.000000, 165.000000)">
+                    <text id="50%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="30" font-weight="bold" fill="#C62D4D">
+                        <tspan x="29.2382812" y="29">50%</tspan>
+                    </text>
+                    <text id="" font-family="FontAwesome" font-size="25" font-weight="normal" fill="#C12542">
+                        <tspan x="0" y="27"></tspan>
+                    </text>
+                </g>
+                <text id="Metric-e" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="27" fill="#005CA8">
+                    <tspan x="58.3742676" y="149">Metric e</tspan>
+                </text>
+                <g id="Mini-graph" transform="translate(53.000000, 0.000000)">
+                    <path d="M0.5,115.5 L69.5,115.5" id="Line-Copy-9" stroke="#969696" stroke-linecap="square"></path>
+                    <rect id="Rectangle-2" fill="#A66800" x="45" y="23" width="15" height="92"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#0060A5" x="9" y="69" width="15" height="46"></rect>
+                    <text id="100" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#A66800">
+                        <tspan x="38" y="15">100</tspan>
+                    </text>
+                    <text id="50" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#0060A5">
+                        <tspan x="7" y="60">50</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-3-Copy" transform="translate(347.000000, 374.000000)">
+                <g id="Group-8" transform="translate(48.000000, 139.000000)">
+                    <text id="23%" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="30" font-weight="bold" fill="#1D9652">
+                        <tspan x="29" y="29">23%</tspan>
+                    </text>
+                    <text id="" transform="translate(12.000000, 18.500000) rotate(180.000000) translate(-12.000000, -18.500000) " font-family="FontAwesome" font-size="25" font-weight="normal" fill="#128C46">
+                        <tspan x="0" y="27"></tspan>
+                    </text>
+                </g>
+                <text id="Metric-b" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="27" fill="#005CA8">
+                    <tspan x="58.0217285" y="123">Metric b</tspan>
+                </text>
+                <g id="Mini-graph" transform="translate(57.000000, 0.000000)">
+                    <path d="M0.5,89.5 L69.5,89.5" id="Line-Copy-9" stroke="#969696" stroke-linecap="square"></path>
+                    <rect id="Rectangle-2" fill="#A66800" x="45" y="39" width="15" height="50"></rect>
+                    <rect id="Rectangle-2-Copy" fill="#0060A5" x="9" y="24" width="15" height="65"></rect>
+                    <text id="10" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#A66800">
+                        <tspan x="44" y="29">10</tspan>
+                    </text>
+                    <text id="13" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="27" fill="#0060A5">
+                        <tspan x="8" y="15">13</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(786.000000, 332.000000)"></g>
+            <g id="Group-Copy" transform="translate(1009.000000, 357.000000)"></g>
+            <text id="Single-Intelligence-Platform" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="21" font-weight="bold" fill="#FFFFFF">
+                <tspan x="93" y="40">Service Name</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

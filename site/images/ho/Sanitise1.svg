@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1066px" height="813px" viewBox="0 0 1066 813" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>IMS-pull6 Copy 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.8%" y="-0.5%" width="155.0%" height="101.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="400" height="1108"></rect>
+        <rect id="path-3" x="0" y="0" width="104" height="30" rx="5"></rect>
+        <filter x="-1.0%" y="-3.3%" width="101.9%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="756.256604" y="193" width="104" height="30" rx="5"></rect>
+        <filter x="-1.0%" y="-3.3%" width="101.9%" height="106.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IMS-pull6-Copy-8">
+            <g id="source" transform="translate(28.000000, 339.000000)" stroke="#BFC1C3">
+                <rect id="source-bg" x="0.5" y="0.5" width="185" height="59"></rect>
+            </g>
+            <g id="header">
+                <rect id="header-bg" fill="#000000" x="0" y="0" width="1066" height="73"></rect>
+                <text id="Search" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="22" fill="#000000">
+                    <tspan x="678" y="41">Search</tspan>
+                </text>
+                <text id="Username" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" line-spacing="26" fill="#C9C9C9">
+                    <tspan x="938.0896" y="42">Username</tspan>
+                </text>
+                <text id="Help" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" fill="#FFFFFF">
+                    <tspan x="853.327393" y="42">Help</tspan>
+                </text>
+                <text id="Type-something" font-family="FontAwesome" font-size="24" font-weight="normal" fill-opacity="0.897814764" fill="#FFFFFF">
+                    <tspan x="901" y="45"></tspan>
+                </text>
+                <text id="search-icon" font-family="FontAwesome" font-size="20" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="819.645669" y="43"></tspan>
+                </text>
+                <text id="Search" font-family="GDSTransportWebsite, GDS Transport Website" font-size="19" font-weight="300" fill="#FFFFFF">
+                    <tspan x="753.319092" y="42">Search</tspan>
+                </text>
+                <g id="GovUK-Crown" transform="translate(28.000000, 26.000000)" fill="#FFFFFF">
+                    <path d="M5.72982093,5.62868877 C6.47789963,5.93361125 7.3264839,5.58512842 7.63114875,4.85416724 C7.93767912,4.12551085 7.58707553,3.27827349 6.83911343,2.97473388 C6.105959,2.67730195 5.25364366,3.03269912 4.94851243,3.76412125 C4.6434978,4.4926624 4.99631671,5.33171779 5.72982093,5.62868877" id="Fill-2"></path>
+                    <path d="M1.85882949,8.49833453 C2.60692926,8.80313512 3.45565405,8.45454466 3.76021088,7.72394514 C4.06663329,6.99507416 3.71625302,6.14785529 2.96815325,5.8443223 C2.23509476,5.54689685 1.3825222,5.9020558 1.07749898,6.63403816 C0.772592351,7.361872 1.1253046,8.20113956 1.85882949,8.49833453" id="Fill-3"></path>
+                    <path d="M0.89108439,12.3243559 C1.63927038,12.6292806 2.48784411,12.2806799 2.79250516,11.5498285 C3.09891513,10.8211666 2.7483159,9.97380766 2.0004797,9.67049625 C1.26745097,9.37283159 0.414913036,9.72834668 0.109785604,10.4600048 C-0.195225233,11.1880905 0.157705885,12.0273827 0.89108439,12.3243559" id="Fill-4"></path>
+                    <path d="M10.5685009,6.58527039 C11.316467,6.89008454 12.1652891,6.54159381 12.4699555,5.81084655 C12.7762544,5.08194316 12.4258821,4.2346866 11.677916,3.9313706 C10.9447576,3.63370144 10.0922045,3.98922191 9.7873048,4.72066061 C9.48217194,5.44875731 9.83487615,6.28829268 10.5685009,6.58527039" id="Fill-5"></path>
+                    <path d="M25.2380292,5.62868877 C24.4898692,5.93361125 23.641325,5.58512842 23.3364414,4.85416724 C23.0302753,4.12551085 23.3805125,3.27827349 24.1284393,2.97473388 C24.8617923,2.67730195 25.7140674,3.03269912 26.0191842,3.76412125 C26.324301,4.4926624 25.9713822,5.33171779 25.2380292,5.62868877" id="Fill-6"></path>
+                    <path d="M28.1410639,8.49833453 C27.392869,8.80313512 26.5444018,8.45454466 26.2397371,7.72394514 C25.9334401,6.99507416 26.2836937,6.14785529 27.031772,5.8443223 C27.7649261,5.54689685 28.6173576,5.9020558 28.9224886,6.63403816 C29.2275031,7.361872 28.8744512,8.20113956 28.1410639,8.49833453" id="Fill-7"></path>
+                    <path d="M29.1087494,12.3243559 C28.3609987,12.6292806 27.5121565,12.2806799 27.2075993,11.5498285 C26.90106,10.8211666 27.2514406,9.97380766 27.9994245,9.67049625 C28.7327169,9.37283159 29.5850571,9.72834668 29.8900806,10.4600048 C30.1953373,11.1880905 29.8423916,12.0273827 29.1087494,12.3243559" id="Fill-8"></path>
+                    <path d="M20.3991484,6.58527039 C19.6511001,6.89008454 18.8026669,6.54159381 18.4977813,5.81084655 C18.1914966,5.08194316 18.5418527,4.2346866 19.2897844,3.9313706 C20.0230257,3.63370144 20.875423,3.98922191 21.1805418,4.72066061 C21.485544,5.44875731 21.1326228,6.28829268 20.3991484,6.58527039" id="Fill-9"></path>
+                    <path d="M16.9655922,4.17123642 L16.9716397,4.16634928 L19.3548387,5.2601431 L19.3548387,2.19128601 L16.97421,2.84972849 L16.9677088,2.84352051 C16.9007319,2.76691135 16.8236253,2.69849145 16.736389,2.63958165 L16.730039,2.63363784 L17.6876729,0 L15.9677419,0.00013208475 L14.2473574,0 L15.2051425,2.63363784 L15.1984901,2.63958165 C15.1117074,2.69849145 15.033996,2.76691135 14.9677751,2.84352051 L14.9606692,2.84972849 L12.5806452,2.19128601 L12.5806452,5.2601431 L14.9638441,4.16634928 L14.9695893,4.17123642 C15.0401948,4.2519402 15.1228954,4.32366222 15.2158769,4.3844212 L13.847159,7.99178782 C13.8454959,7.9962787 13.8436816,8.0006375 13.8420186,8.0049963 L13.8408091,8.00882675 L13.8411114,8.00909092 C13.7774607,8.18938661 13.7434431,8.38038116 13.7434431,8.57864037 C13.7434431,9.55461459 14.5674254,10.3601995 15.6408704,10.4986243 C15.6567453,10.5008697 15.6723178,10.5031152 15.6884951,10.5048323 C15.7799647,10.5151349 15.8724926,10.5217391 15.9672884,10.5217391 L15.9680443,10.5217391 C16.0623865,10.5217391 16.1550656,10.5151349 16.2469888,10.5048323 C16.2625613,10.5031152 16.278285,10.5008697 16.2944623,10.4986243 C17.3676049,10.3601995 18.1920408,9.55461459 18.1920408,8.57864037 C18.1920408,8.38038116 18.1574184,8.18938661 18.0940701,8.00909092 L18.0943724,8.00882675 L18.0931629,8.0049963 C18.091651,8.0006375 18.0895344,7.9962787 18.0877201,7.99178782 L16.7194558,4.3844212 C16.8121349,4.32366222 16.8951379,4.2519402 16.9655922,4.17123642" id="Fill-10"></path>
+                    <path d="M14.9975398,21.2185482 C18.8727939,21.2185482 22.5410001,21.4995383 25.8092244,22 C26.7371204,17.8264377 27.866367,15.4346964 29.0322581,13.7318519 L26.8365656,12.8959479 C27.0551378,14.0887703 27.090099,14.6439614 26.8453706,15.4105878 C26.483328,15.0319162 26.1403199,14.3352602 25.8724135,13.2708785 L24.8088163,17.0616125 C25.4559868,16.5845667 25.955155,16.2764197 26.5261879,16.2615943 C25.5130901,18.5956966 24.2487898,19.1966109 23.4292735,19.0343627 C22.4283474,18.8378913 21.968543,17.8831068 22.1236671,17.0733897 C22.353634,15.9255977 23.4543937,15.6264569 23.9684528,16.9612985 C24.9515098,14.8152157 23.2836018,14.1466864 22.2100342,14.7815468 C23.8589077,13.0220332 24.0475687,11.4580211 22.7167125,9.56521739 C20.8626038,11.081705 20.8407207,12.5837828 21.6752574,14.6967509 C20.5924962,13.3707768 18.9074962,14.0826739 19.5160799,16.2252928 C20.2971389,14.9317407 21.3306954,15.7453373 21.1684496,16.9737685 C21.031583,18.0449394 19.7103088,18.9095244 18.0653198,18.7561437 C15.70777,18.5273889 15.5674072,16.7867188 15.5086206,15.3461595 C16.0884585,15.2310201 17.1318559,15.805886 18.0216831,17.143083 L18.3496709,13.1224858 C17.3813753,14.2021086 16.5017775,14.4068933 15.5246769,14.440008 C15.8499455,13.3542888 17.3446013,11.5751004 17.3446013,11.5751004 L15.1728637,11.5748232 L15.1707919,11.5748232 L12.6551397,11.5751004 C12.6551397,11.5751004 14.149925,13.3542888 14.4749347,14.440008 C13.498093,14.4068933 12.6184952,14.2021086 11.6499407,13.1224858 L11.9781874,17.143083 C12.8682735,15.805886 13.9115415,15.2310201 14.4911204,15.3461595 C14.4327222,16.7867188 14.2921006,18.5273889 11.9345507,18.7561437 C10.2894323,18.9095244 8.96841705,18.0449394 8.83142096,16.9737685 C8.66904564,15.7453373 9.70260213,14.9317407 10.4836611,16.2252928 C11.0923744,14.0826739 9.40724478,13.3707768 8.32474261,14.6967509 C9.1590203,12.5837828 9.13713718,11.081705 7.28315799,9.56521739 C5.95217237,11.4580211 6.14070385,13.0220332 7.78957737,14.7815468 C6.71600973,14.1466864 5.04823127,14.8152157 6.03128826,16.9612985 C6.54547679,15.6264569 7.64636596,15.9255977 7.87646241,17.0733897 C8.03158652,17.8831068 7.57113464,18.8378913 6.57085603,19.0343627 C5.75133973,19.1966109 4.4866509,18.5956966 3.47355317,16.2615943 C4.04484499,16.2764197 4.54349521,16.5845667 5.19118371,17.0616125 L4.12758648,13.2708785 C3.8591622,14.3352602 3.51667198,15.0319162 3.1544999,15.4105878 C2.90977154,14.6439614 2.94460325,14.0887703 3.162787,12.8959479 L0.967741935,13.7318519 C2.13376251,15.4344193 3.26249115,17.8258835 4.19025766,21.9990301 C7.45744602,21.4991226 11.1239689,21.2185482 14.9975398,21.2185482" id="Fill-11"></path>
+                </g>
+            </g>
+            <text id="Heading-1" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill="#000000">
+                <tspan x="41" y="471">Heading 1</tspan>
+            </text>
+            <text id="Heading-2" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill="#000000">
+                <tspan x="41" y="649">Heading 2</tspan>
+            </text>
+            <text id="The-idea-is-that-the" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill="#000000">
+                <tspan x="41" y="684">The idea is that the user can clean up the imported text here, but can </tspan>
+                <tspan x="41" y="705">still view the original text in the sidebar and copy and paste into this </tspan>
+                <tspan x="41" y="726">field as they wish.</tspan>
+            </text>
+            <text id="This-is-an-example-o" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill="#000000">
+                <tspan x="41" y="509">This is an example of the free text that gets imported from the other </tspan>
+                <tspan x="41" y="530">system into this new reporting platform. </tspan>
+                <tspan x="41" y="551"></tspan>
+                <tspan x="41" y="572">Each report in the other system has common sections which, when </tspan>
+                <tspan x="41" y="593">imported, come into this single, large text field, divided by headings.</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#ECECEC" x="0" y="73" width="1066" height="240"></rect>
+            <text id="This-is-a-report-tit" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="32" font-weight="bold" line-spacing="39" fill="#000000">
+                <tspan x="20.1132075" y="136">This is a report title on an editing page</tspan>
+            </text>
+            <text id="Hide-reference-infor" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" text-decoration="underline" fill="#005EA5">
+                <tspan x="756" y="285">Hide reference information</tspan>
+            </text>
+            <text id="" transform="translate(955.000000, 280.033962) rotate(-90.000000) translate(-955.000000, -280.033962) " font-family="FontAwesome" font-size="12" font-weight="normal" fill="#005EA5">
+                <tspan x="948.966038" y="284.033962"></tspan>
+            </text>
+            <g id="freeTextModal" filter="url(#filter-1)" transform="translate(666.000000, 265.000000)">
+                <g id="Rectangle-39-Copy-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#D7D8D9" stroke-width="1" x="0.5" y="0.5" width="399" height="1107"></rect>
+                </g>
+                <text id="Reference-informatio" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="23" fill="#000000">
+                    <tspan x="18.3673469" y="31">Reference information</tspan>
+                </text>
+                <text id="Hide" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16.2463768" font-weight="300" text-decoration="underline" fill="#005EA5">
+                    <tspan x="344.253629" y="31.8243243">Hide</tspan>
+                </text>
+                <g id="What-is-the-purpose--+-Free-text-Copy-5" transform="translate(18.367347, 46.000000)" font-size="16" font-family="GDSTransportWebsite, GDS Transport Website" line-spacing="24" fill="#6F777C" font-weight="300">
+                    <text id="Free-text-from-the-o">
+                        <tspan x="0" y="15">Free text from the original report. The following </tspan>
+                        <tspan x="0" y="39.2109375">will not be included in the final report.</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle-39-Copy-2" stroke="#D7D8D9" x="27.5" y="440.5" width="600" height="453" rx="3"></rect>
+            <text id="Hide" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16.2463768" font-weight="300" fill="#005EA5">
+                <tspan x="816.253629" y="471.824324">Hide</tspan>
+            </text>
+            <path d="M680,393.009436 C680,388.585947 683.588537,385 687.993354,385 L772.006646,385 C776.421253,385 780,388.578651 780,393.009436 L780,418 L680,418 L680,393.009436 Z" id="Rectangle" fill="#E9E9E9"></path>
+            <g id="Upload-box" transform="translate(666.000000, 417.000000)" fill="#E9E9E9">
+                <path d="M0,0.124687045 L392.009848,0.124687045 C396.422687,0.124687045 400,3.70822482 400,8.11696853 L400,965.033719 C400,969.447734 396.419794,973.026 392.009848,973.026 L7.99015164,973.026 C3.57731274,973.026 0,969.442462 0,965.033719 L0,0.124687045 Z" id="Rectangle-39-Copy-2"></path>
+            </g>
+            <text id="One-of-the-main-chal" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="24" fill="#000000">
+                <tspan x="683" y="456">One of the main challenges was how to present this </tspan>
+                <tspan x="683" y="480.210938">text, because reports can be lengthy with multiple </tspan>
+                <tspan x="683" y="504.421875">sections and sub-sections.</tspan>
+                <tspan x="683" y="528.632812"></tspan>
+                <tspan x="683" y="552.632812">Tabs were added to keep the sidebar more compact </tspan>
+                <tspan x="683" y="576.84375">and prevent the user from having to scroll too much.</tspan>
+                <tspan x="683" y="601.054688"></tspan>
+                <tspan x="683" y="625.054688"></tspan>
+                <tspan x="683" y="649.054688"></tspan>
+                <tspan x="683" y="673.054688"></tspan>
+                <tspan x="683" y="697.054688"></tspan>
+                <tspan x="683" y="721.054688"></tspan>
+            </text>
+            <text id="In-other-versions,-t" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="24" fill="#000000">
+                <tspan x="683" y="622">In other versions, the sidebar had links like this: </tspan>
+                <tspan x="683" y="646.210938">which would automatically paste a sub-section </tspan>
+                <tspan x="683" y="670.421875">into the text field. </tspan>
+            </text>
+            <text id="Heading-1" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16.2463768" font-weight="300" fill="#000000">
+                <tspan x="696.892921" y="406">Heading 1</tspan>
+            </text>
+            <text id="Heading-2" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16.2463768" font-weight="300" text-decoration="underline" fill="#005EA5">
+                <tspan x="824.056478" y="406">Heading 2</tspan>
+            </text>
+            <text id="Add" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" text-decoration="underline" fill="#005EA5">
+                <tspan x="1014.14453" y="623">Add</tspan>
+            </text>
+            <text id="Heading-3" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16.2463768" font-weight="300" text-decoration="underline" fill="#005EA5">
+                <tspan x="954.024747" y="406">Heading 3</tspan>
+            </text>
+            <g id="Numbaz" transform="translate(13.000000, 412.000000)">
+                <g id="Group">
+                    <circle id="Oval" fill="#50E3C2" cx="20" cy="20" r="20"></circle>
+                    <text id="1" font-family="Roboto-Bold, Roboto" font-size="21" font-weight="bold" fill="#333333">
+                        <tspan x="14" y="27">1</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Numbaz" transform="translate(640.000000, 413.000000)">
+                <g id="Group">
+                    <circle id="Oval" fill="#50E3C2" cx="20" cy="20" r="20"></circle>
+                    <text id="1" font-family="Roboto-Bold, Roboto" font-size="21" font-weight="bold" fill="#333333">
+                        <tspan x="14" y="27">2</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="ID:-12345" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill="#000000">
+                <tspan x="20.1132075" y="208">ID: 12345</tspan>
+            </text>
+            <text id="Check" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill-opacity="0.801092618" fill="#000000">
+                <tspan x="832.363281" y="129">Check</tspan>
+            </text>
+            <text id="Edit-report-details" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" text-decoration="underline" fill="#005EA5">
+                <tspan x="20.1132075" y="258">Edit report details</tspan>
+            </text>
+            <text id="Edit-subject" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" text-decoration="underline" fill="#005EA5">
+                <tspan x="20.1132075" y="285">Edit subject</tspan>
+            </text>
+            <text id="Complete" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" fill-opacity="0.801092618" fill="#000000">
+                <tspan x="914.280325" y="129">Complete</tspan>
+            </text>
+            <text id="Type-something" transform="translate(816.000000, 124.000000) rotate(-90.000000) translate(-816.000000, -124.000000) " font-family="FontAwesome" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="809.966038" y="128"></tspan>
+            </text>
+            <text id="Type-something" transform="translate(893.000000, 124.000000) rotate(-90.000000) translate(-893.000000, -124.000000) " font-family="FontAwesome" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="886.966038" y="128"></tspan>
+            </text>
+            <text id="Created:-01.01-by-Ja" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300">
+                <tspan x="20.1132075" y="233" fill="#000000">Created: 01.01 by </tspan>
+                <tspan x="141.425708" y="233" fill="#005EA5" text-decoration="underline">Jay</tspan>
+            </text>
+            <g id="secondary-button" transform="translate(756.256604, 150.000000)">
+                <g id="button-bg">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <rect stroke="#565656" stroke-width="1" x="0.5" y="0.5" width="103" height="29" rx="5"></rect>
+                </g>
+                <text id="Submit" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="22" fill="#0B0C0C">
+                    <tspan x="27.0546875" y="20">Submit</tspan>
+                </text>
+            </g>
+            <g id="button-bg">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <rect stroke="#000000" stroke-width="1" x="756.756604" y="193.5" width="103" height="29" rx="5"></rect>
+            </g>
+            <text id="Actions" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="22" fill="#000000">
+                <tspan x="769.307547" y="212">Actions</tspan>
+            </text>
+            <text id="arrow-down-icon" font-family="FontAwesome" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="836.658491" y="212"></tspan>
+            </text>
+            <text id="Single-Intelligence-Platform" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="21" font-weight="bold" fill="#FFFFFF">
+                <tspan x="73" y="44">Service Name</tspan>
+            </text>
+            <rect id="Rectangle-2" fill="#D3D0E2" x="756" y="112" width="49.2773585" height="23"></rect>
+            <text id="Draft" font-family="GDSTransportWebsite-Bold, GDS Transport Website" font-size="16" font-weight="bold" fill-opacity="0.801092618" fill="#000000">
+                <tspan x="761.284906" y="129">Draft</tspan>
+            </text>
+            <text id="Report-source-line-1" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="24" fill="#0B0C0C">
+                <tspan x="53.4179688" y="360">Report source line 1</tspan>
+            </text>
+            <text id="Report-source-line-2" font-family="GDSTransportWebsite, GDS Transport Website" font-size="16" font-weight="300" line-spacing="24" fill="#0B0C0C">
+                <tspan x="52.109375" y="386">Report source line 2</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
