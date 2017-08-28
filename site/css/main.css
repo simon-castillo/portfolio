@@ -384,40 +384,19 @@ there.
   .primary-nav {
     margin: 2.4rem 0; }
     .primary-nav ul {
-      float: right; }
+      float: right;
+      text-align: right;
+      list-style-type: none; }
       .primary-nav ul li {
-        display: inline;
-        margin-left: 40px; } }
+        margin: 0;
+        font-size: 1.6rem;
+        line-height: 2.7rem; } }
 
-.nav {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal; }
-
-.nav li {
-  display: inline;
-  padding: 0 3rem 0 0;
-  font-size: 2.47rem;
-  text-decoration: underline; }
-
-.nav a {
-  color: #FFFFFF; }
-
-/* Typography */
-.name {
-  font-size: 2.47rem;
+.home-link {
+  font-size: 1.9rem;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
   text-align: left;
-  letter-spacing: 1px;
   margin-top: 2.4rem; }
-
-#homeBlurb {
-  text-align: center;
-  font-weight: 400;
-  font-size: 3.211rem;
-  line-height: 5.4rem;
-  margin: 0;
-  padding: 0; }
 
 .homeProject {
   margin: 5.4rem 0;
@@ -507,57 +486,50 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 1.0rem;
   line-height: 1.2;
-  font-weight: normal;
-  letter-spacing: -.1rem; }
+  font-weight: normal; }
 
 h2 {
   font-size: 2.0rem;
   line-height: 1.25;
-  font-weight: 700;
-  letter-spacing: 0rem; }
+  font-weight: 700; }
 
 h3 {
   font-size: 3.0rem;
-  line-height: 1.3;
-  letter-spacing: -.1rem; }
+  line-height: 1.3; }
 
 h4 {
   font-size: 2.4rem;
-  line-height: 1.35;
-  letter-spacing: -.08rem; }
+  line-height: 1.35; }
 
 h5 {
   font-size: 1.8rem;
-  line-height: 1.5;
-  letter-spacing: -.05rem; }
+  line-height: 1.5; }
 
 h6 {
   font-size: 1.5rem;
-  line-height: 1.6;
-  letter-spacing: 0; }
+  line-height: 1.6; }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 {
     font-size: 4.174rem;
-    font-weight: 700;
-    margin-top: 5.4rem;
-    text-align: center; }
+    font-weight: 500;
+    margin-top: 5.4rem; }
   h2 {
     font-size: 3.211rem;
     line-height: 2.7rem;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 5.4rem; }
   h3 {
     font-size: 2.47rem;
     line-height: 2.7rem;
-    font-weight: 700;
+    font-weight: 500;
     margin-top: 5.4rem;
     margin-bottom: 2.7rem; }
   h4 {
     font-size: 1.8rem;
     line-height: 2.7rem;
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 2.7rem; }
   p {
     font-size: 1.9rem;
@@ -576,7 +548,6 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  font-size: 1.9rem;
   color: #333333;
   text-decoration: none; }
 

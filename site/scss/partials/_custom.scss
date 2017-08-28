@@ -20,47 +20,24 @@
   margin: 2.4rem 0;
 ul {
   float: right;
+  text-align: right;
+  list-style-type: none;
     li {
-      display: inline;
-      margin-left: 40px;
+      margin: 0;
+      font-size: 1.6rem;
+      line-height: 2.7rem;
       }
     }
   }
 }
 
-.nav {
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
-}
-.nav li {
-  display: inline;
-  padding: 0 3rem 0 0;
-  font-size: 2.47rem;
-  text-decoration: underline;
-}
-.nav a {color:#FFFFFF}
-
-
-/* Typography */
-
-.name {
-  font-size: 2.47rem;
-  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
-  sans-serif;
-  font-weight: 700;
+.home-link {
+  font-size: 1.9rem;
+  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
-  letter-spacing: 1px;
   margin-top: 2.4rem;
 }
 
-#homeBlurb {
-  text-align: center;
-  font-weight: 400;
-  font-size: 3.211rem;
-  line-height: 5.4rem;
-  margin: 0;
-  padding:0;
-}
 
 .homeProject {
   margin: 5.4rem 0;
