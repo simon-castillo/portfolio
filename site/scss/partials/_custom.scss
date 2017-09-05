@@ -38,30 +38,94 @@ ul {
   margin-top: 2.4rem;
 }
 
+.brief-container {
+    p {margin-top: 1rem;}
+}
+
+.main-heading {
+    border-bottom: 1px solid $second-grey;
+}
+
+#homeBlurb {border:none;}
+
+.brief-heading {
+    color: $backgroundColour;
+    background-color: $accentColour;
+    font-size: 1.9rem;
+    padding: 4px;
+    margin-right: 1rem;
+  }
+
+.activity-header {
+  font-size: 2.47rem;
+}
+
+p {
+  a {text-decoration: underline;}
+}
+
+.ho-project-info {
+  p {margin-bottom: 0}
+}
+
 
 .homeProject {
-  margin: 5.4rem 0;
+  margin: 2.7rem 0 0 0;
   border: 1px solid $backgroundColour;
   text-align: center;
   img {
     width: 100%;
   }
-  h2 {
-    font-size: 2.47rem;
+}
+
+.homeProject-fw {
+  margin: 2.7rem 0 0 0;
+  text-align: center;
+  img {
+    width: 100%;
+  }
+  p {color: darken($second-grey, 50%);}
+}
+
+.homeProject:hover {
+  .home-img-container {
+    background-color: $light-orange;
+    -webkit-transition: background-color 0.3s ease-out;
+    -moz-transition: background-color 0.3s ease-out;
+    -o-transition: background-color 0.3s ease-out;
+    transition: background-color 0.3s ease-out;
+  }
+  p {
+    color: $accentColour;
   }
 }
 
 /* Footer */
 
 .footer {
-  display: flex;
-  justify-content: center;
   margin: 8.1rem 0 2.7rem 0;
   padding: 5.4rem;
-  border-top: 1px solid $mainColour;
+  border-top: 1px solid $second-grey;
+  .previous-next-container{
+    display: flex;
+    justify-content: space-between;
+  }
+  .previous-next-button {
+    background-color: $accentColour;
+    display: flex;
+    margin-bottom: 5.4rem;
+    border-bottom: 4px solid darken($accentColour, 15%);
+    border-right: 2px solid darken($accentColour, 15%);
+      p {
+        color: $backgroundColour;
+        margin: 1rem;
+      }
+
+  }
   ul {
+    display: flex;
+    justify-content: center;
     li {
-      font-size: 2.4rem;
       display: inline;
       padding: 0 2.7rem;
     }
@@ -70,7 +134,29 @@ ul {
 
 /* Images */
 
-.image-row {
+.home-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:285px;
+  background-color: $light-grey;
+  -webkit-transition: background-color 0.3s ease-out;
+  -moz-transition: background-color 0.3s ease-out;
+  -o-transition: background-color 0.3s ease-out;
+  transition: background-color 0.3s ease-out;
+    img{width: 80%;}
+}
+
+.home-img-container-fw {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:285px;
+  border: 1px solid $light-grey;
+    img{width: 80%;}
+}
+
+.img-container {
   text-align: center;
     img {
       margin: 8.1rem 0 8.1rem 0;
@@ -109,11 +195,7 @@ ul {
     }
 }
 
-h2.multi-project-page::before {
-  content: "";
-  display:block;
-  margin: 1rem 0 2rem 0;
-  height: 10px;
-  width: 5.4rem;
-  background-color: $accentColour;
+.multi-project-page {
+  padding-top: 5.4rem;
+  border-top: 1px solid $second-grey;
 }
