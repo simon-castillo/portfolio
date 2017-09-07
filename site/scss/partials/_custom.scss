@@ -120,15 +120,16 @@ p {
     justify-content: space-between;
   }
   .previous-next-button {
+    color: $backgroundColour;
+    font-size: 1.9rem;
+    padding: 1rem;
     background-color: $accentColour;
     display: flex;
     margin-bottom: 5.4rem;
     border-bottom: 4px solid darken($accentColour, 15%);
-      p {
-        color: $backgroundColour;
-        margin: 1rem;
-      }
-
+  }
+  .previous-next-button:hover {
+    text-decoration:none;
   }
   ul {
     display: flex;

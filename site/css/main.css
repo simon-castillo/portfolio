@@ -470,13 +470,15 @@ p a {
     display: flex;
     justify-content: space-between; }
   .footer .previous-next-button {
+    color: #F8F8F8;
+    font-size: 1.9rem;
+    padding: 1rem;
     background-color: #E46E05;
     display: flex;
     margin-bottom: 5.4rem;
     border-bottom: 4px solid #994a03; }
-    .footer .previous-next-button p {
-      color: #F8F8F8;
-      margin: 1rem; }
+  .footer .previous-next-button:hover {
+    text-decoration: none; }
   .footer ul {
     display: flex;
     justify-content: center; }
