@@ -43,13 +43,14 @@
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 80%;
+    width: 90%;
     padding: 0; } }
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 80%; }
+    width: 100%;
+    padding: 0 10%; }
   .column,
   .columns {
     margin-left: 1%; }
@@ -369,63 +370,143 @@ there.
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Home Header */
 .body {
-  background-color: #F8F8F8; }
+  background-color: #FFF; }
 
-.headerBackground {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #DBDBDB;
-  padding: 2.7rem;
-  height: 50rem; }
+/* Line breks */
+@media (max-width: 550px) {
+  .home-blurb br {
+    display: inherit; }
+  br {
+    display: none; } }
 
 /* Nav */
+#home-nav {
+  justify-content: flex-end; }
+
+.current-page {
+  margin-bottom: 2.7rem;
+  border-bottom: 1px solid #E46E05; }
+
+.current-page:hover {
+  text-decoration: none; }
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0 0 0; }
+
 @media (min-width: 550px) {
-  .primary-nav {
-    margin: 2.4rem 0; }
-    .primary-nav ul {
-      float: right;
-      text-align: right;
-      list-style-type: none; }
-      .primary-nav ul li {
-        margin: 0;
-        font-size: 1.6rem;
-        line-height: 2.7rem; } }
+  .nav {
+    margin: 2.7rem 0 0 0; } }
+
+.primary-nav ul {
+  display: inline;
+  text-align: left;
+  list-style-type: none;
+  margin: 0; }
+  .primary-nav ul li {
+    display: inline;
+    margin-left: 1.2rem; }
+  .primary-nav ul a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid #E46E05; }
+
+@media (min-width: 550px) {
+  .primary-nav ul {
+    float: right;
+    text-align: right; }
+    .primary-nav ul li {
+      display: inline;
+      margin: 0 2.7rem 0 0;
+      font-size: 1.6rem;
+      line-height: 2.7rem; } }
 
 .home-link {
-  font-size: 1.9rem;
-  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 500;
+  font-family: "Rubik", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
-  margin-top: 2.4rem; }
+  margin: 0; }
+
+@media (min-width: 550px) {
+  .home-link {
+    font-size: 1.9rem;
+    margin: 0; } }
+
+.project-blurb {
+  padding: 0 0 6rem 0; }
+
+.job-title {
+  color: #E46E05; }
 
 .brief-container p {
   margin-top: 1rem; }
 
 .main-heading {
+  margin: 5rem 0 3rem 0;
   border-bottom: 1px solid #DBDBDB; }
 
-#homeBlurb {
-  border: none; }
+@media (min-width: 550px) {
+  .main-heading {
+    padding: 5.4rem 0 2.7rem 0; } }
 
-.brief-heading {
-  color: #F8F8F8;
-  background-color: #E46E05;
-  font-size: 1.9rem;
-  padding: 4px;
-  margin-right: 1rem; }
+.about-page h1 {
+  margin-top: 10.8rem; }
 
-.activity-header {
-  font-size: 2.47rem; }
+#home-heading {
+  background-color: #ADEBE5; }
+
+.home-blurb {
+  margin: 8.1rem 0 5.4rem 0; }
+
+@media (min-width: 550px) {
+  .home-blurb {
+    margin: 10.8rem 0 8rem 0; } }
+
+.about-contact-method {
+  display: flex;
+  align-items: center; }
+  .about-contact-method img {
+    height: 2rem;
+    display: inline;
+    padding-right: 0.5rem; }
+  .about-contact-method p {
+    display: inline;
+    margin: 1rem; }
+
+@media (max-width: 550px) {
+  .brief-heading {
+    background-color: #FFC686;
+    font-size: inherit;
+    font-weight: normal;
+    padding: 2px;
+    margin-right: 1rem; } }
+
+@media (min-width: 550px) {
+  .brief-heading {
+    background-color: #FFC686;
+    font-size: 1.9rem;
+    font-weight: 500;
+    margin-right: 1rem;
+    padding: 0.4rem; } }
+
+.highlight-header {
+  color: #E46E05; }
+
+@media (min-width: 550px) {
+  .activity-header {
+    font-size: 2.47rem; } }
 
 p a {
   text-decoration: underline; }
 
 .ho-project-info p {
-  margin-bottom: 0; }
+  margin: 10px 0; }
 
 .homeProject {
   margin: 2.7rem 0 0 0;
-  border: 1px solid #F8F8F8;
+  border: 1px solid #FFF;
   text-align: center; }
   .homeProject img {
     width: 100%; }
@@ -454,39 +535,84 @@ p a {
 .about-page h1 {
   display: inline-block; }
 
-.about-page h2 {
-  font-size: 2.47rem; }
+.profile-pic-container {
+  text-align: center;
+  margin: 2rem 0; }
 
-.about-page .profile-pic {
-  display: inline-block;
-  width: 8.1rem; }
+.profile-pic {
+  width: 15rem; }
+
+@media (min-width: 550px) {
+  h2 {
+    font-size: 2.47rem; }
+  .profile-pic-container {
+    text-align: left;
+    margin: 2.7rem 10rem; }
+  .profile-pic {
+    width: 15rem; } }
 
 /* Footer */
+.previous-next-button {
+  text-align: center;
+  color: #FFF;
+  padding: 0.5rem;
+  margin: 0 1.5rem 1.5rem 1.5rem;
+  background-color: #E46E05;
+  border-bottom: 4px solid #994a03; }
+
+.previous-next-container {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-top: 2.7rem;
+  margin-bottom: 5.4rem; }
+
 .footer {
-  margin: 8.1rem 0 2.7rem 0;
-  padding: 5.4rem;
-  border-top: 1px solid #DBDBDB; }
-  .footer .previous-next-container {
-    display: flex;
-    justify-content: space-between; }
-  .footer .previous-next-button {
-    color: #F8F8F8;
-    font-size: 1.9rem;
-    padding: 1rem;
-    background-color: #E46E05;
-    display: flex;
-    margin-bottom: 5.4rem;
-    border-bottom: 4px solid #994a03; }
-  .footer .previous-next-button:hover {
-    text-decoration: none; }
+  margin-top: 2.7rem;
+  border-top: 1px solid #DBDBDB;
+  width: 100%; }
   .footer ul {
-    display: flex;
-    justify-content: center; }
+    margin-top: 2.7rem;
+    display: block;
+    list-style: none; }
     .footer ul li {
-      display: inline;
-      padding: 0 2.7rem; }
+      display: list-item; }
+
+@media (min-width: 550px) {
+  .footer {
+    margin: 8.1rem 0 2.7rem 0;
+    border-top: 1px solid #DBDBDB; }
+    .footer .previous-next-container {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin-bottom: 2rem; }
+    .footer .previous-next-button {
+      font-size: 1.9rem;
+      padding: 1rem;
+      display: flex;
+      margin-bottom: 5.4rem; }
+    .footer .previous-next-button:hover {
+      text-decoration: none;
+      color: #FFF; }
+    .footer ul {
+      display: flex;
+      justify-content: center; }
+      .footer ul li {
+        display: inline;
+        padding: 0 2.7rem; } }
 
 /* Images */
+@media (min-width: 550px) {
+  .persona {
+    margin-bottom: 0; } }
+
+.workshop-pic {
+  margin-bottom: 5.4rem; }
+
+@media (min-width: 550px) {
+  .workshop-pic {
+    margin-top: 2.7rem; } }
+
 .home-img-container {
   display: flex;
   justify-content: center;
@@ -498,7 +624,8 @@ p a {
   -o-transition: background-color 0.3s ease-out;
   transition: background-color 0.3s ease-out; }
   .home-img-container img {
-    width: 80%; }
+    max-height: 90%;
+    max-width: 90%; }
 
 .home-img-container-fw {
   display: flex;
@@ -509,11 +636,25 @@ p a {
   .home-img-container-fw img {
     width: 80%; }
 
+img {
+  max-width: 100%; }
+
 .img-container {
   text-align: center; }
   .img-container img {
-    margin: 8.1rem 0 8.1rem 0;
-    max-width: 100%; }
+    margin: 5.4rem 0;
+    max-width: 100%;
+    height: auto; }
+
+.energy-prototypes {
+  border: 1px solid #DBDBDB; }
+
+.research-pics img {
+  height: 170px; }
+
+@media (min-width: 550px) {
+  .img-container img {
+    margin: 8.1rem 0 8.1rem 0; } }
 
 .poster-row {
   margin-top: 5.4rem;
@@ -528,16 +669,6 @@ p a {
   line-height: 4.05rem;
   text-align: center;
   margin: 5.4rem 0 5.4em; }
-
-.project-info {
-  background-color: #DBDBDB;
-  margin: 2.7rem 0 5.4rem 0; }
-  .project-info h3 {
-    text-align: center;
-    font-size: 1.9rem;
-    margin: 1rem; }
-  .project-info p {
-    margin: 1rem; }
 
 .multi-project-page {
   padding-top: 5.4rem;
@@ -558,25 +689,25 @@ body {
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
-  background-color: #F8F8F8; }
+  background-color: #FFF; }
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Rubik", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 200; }
 
 h1 {
-  font-size: 1.0rem;
+  font-size: 2.4rem;
   line-height: 1.2;
   font-weight: normal; }
 
 h2 {
   font-size: 2.0rem;
   line-height: 1.25;
-  font-weight: 700; }
+  font-weight: normal; }
 
 h3 {
   font-size: 3.0rem;
@@ -617,7 +748,7 @@ h6 {
     font-weight: 500;
     margin-bottom: 2.7rem; }
   p {
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     line-height: 2.7rem;
     font-weight: 400;
     margin-top: 2.7rem;
