@@ -75,7 +75,7 @@ ul {
 
 .home-link {
   font-size: 1.7rem;
-  font-weight: 500;
+  font-weight: 400;
   font-family: "Rubik", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
   margin: 0;
@@ -93,7 +93,7 @@ ul {
 }
 
 .job-title {
-  color: $accentColour;
+  color: $dark-grey;
 }
 
 .brief-container {
@@ -149,7 +149,7 @@ ul {
 @media (min-width: 550px) {
 .brief-heading {
     background-color: $light-orange;
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     font-weight: 500;
     margin-right: 1rem;;
     padding: 0.4rem;
@@ -178,7 +178,6 @@ p {
   }
 }
 
-
 .homeProject {
   margin: 2.7rem 0 0 0;
   border: 1px solid $backgroundColour;
@@ -186,15 +185,6 @@ p {
   img {
     width: 100%;
   }
-}
-
-.homeProject-fw {
-  margin: 2.7rem 0 0 0;
-  text-align: center;
-  img {
-    width: 100%;
-  }
-  p {color: darken($second-grey, 50%);}
 }
 
 .homeProject:hover {

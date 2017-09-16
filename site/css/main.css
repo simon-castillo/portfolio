@@ -424,7 +424,7 @@ there.
 
 .home-link {
   font-size: 1.7rem;
-  font-weight: 500;
+  font-weight: 400;
   font-family: "Rubik", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: left;
   margin: 0; }
@@ -438,7 +438,7 @@ there.
   padding: 0 0 6rem 0; }
 
 .job-title {
-  color: #E46E05; }
+  color: #686868; }
 
 .brief-container p {
   margin-top: 1rem; }
@@ -455,7 +455,7 @@ there.
   margin-top: 10.8rem; }
 
 #home-heading {
-  background-color: #ADEBE5; }
+  background-color: #97FBF3; }
 
 .home-blurb {
   margin: 8.1rem 0 5.4rem 0; }
@@ -486,7 +486,7 @@ there.
 @media (min-width: 550px) {
   .brief-heading {
     background-color: #FFC686;
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     font-weight: 500;
     margin-right: 1rem;
     padding: 0.4rem; } }
@@ -510,14 +510,6 @@ p a {
   text-align: center; }
   .homeProject img {
     width: 100%; }
-
-.homeProject-fw {
-  margin: 2.7rem 0 0 0;
-  text-align: center; }
-  .homeProject-fw img {
-    width: 100%; }
-  .homeProject-fw p {
-    color: #5c5c5c; }
 
 .homeProject:hover .home-img-container {
   background-color: #FFC686;
