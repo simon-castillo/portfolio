@@ -93,7 +93,7 @@ ul {
 }
 
 .job-title {
-  color: $dark-grey;
+  color: $accentColour;
 }
 
 .brief-container {
@@ -250,7 +250,7 @@ p {
     padding: 0.5rem;
     margin: 0 1.5rem 1.5rem 1.5rem;
     background-color: $accentColour;
-    border-bottom: 4px solid darken($accentColour, 15%);
+    border-bottom: 3px solid darken($accentColour, 15%);
   }
 
   .previous-next-container {

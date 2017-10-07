@@ -438,7 +438,7 @@ there.
   padding: 0 0 6rem 0; }
 
 .job-title {
-  color: #686868; }
+  color: #E46E05; }
 
 .brief-container p {
   margin-top: 1rem; }
@@ -565,7 +565,7 @@ p a {
   padding: 0.5rem;
   margin: 0 1.5rem 1.5rem 1.5rem;
   background-color: #E46E05;
-  border-bottom: 4px solid #994a03; }
+  border-bottom: 3px solid #994a03; }
 
 .previous-next-container {
   display: flex;
@@ -702,7 +702,7 @@ body {
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Chivo", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 2rem;
   font-weight: 400; }
