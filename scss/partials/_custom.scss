@@ -17,6 +17,13 @@
 
 #home-nav {
   justify-content: flex-end;
+  a {
+    color: #FFF;
+  }
+
+  a:hover {
+    color: $accentColour;
+  }
 }
 
 .current-page {
@@ -81,19 +88,22 @@ ul {
   margin: 0;
 }
 
+.home-link::hover {
+    text-decoration: none !important;
+    // border-bottom: 1px solid $accentColour !important;
+
+}
+
 @media (min-width: 550px){
   .home-link {
     font-size: 1.9rem;
     margin: 0;
+    text-decoration: underline;
   }
 }
 
 .project-blurb {
   padding: 0 0 6rem 0;
-}
-
-.job-title {
-  color: $accentColour;
 }
 
 .brief-container {
@@ -125,11 +135,38 @@ ul {
 
 .home-blurb {
   margin: 8.1rem 0 5.4rem 0;
+
+  .home-name {
+    color: #FFF;
+  }
+
+  .job-title {
+    color: $secondary-colour;
+  }
+
+  p {
+    color: #FFF;
+    font-size: 19px;
+    line-height: 1.5;
+  }
+
+  a{
+    color: #FFF;
+    text-decoration: none;
+    border-bottom: 1px solid #FFF;
+  }
+
+  a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid $accentColour;
+  }
+
 }
 
 @media (min-width: 550px) {
   .home-blurb {
-    margin: 10.8rem 0 8rem 0;;
+    margin: 10.8rem 0 12.8rem 0;
+
   }
 }
 
@@ -159,7 +196,7 @@ ul {
 
 @media (max-width: 550px) {
   .brief-heading {
-    background-color: $light-orange;
+    background-color: $second-grey;
     font-size: inherit;
     font-weight: normal;
     padding: 2px;
@@ -169,11 +206,11 @@ ul {
 
 @media (min-width: 550px) {
 .brief-heading {
-    background-color: $light-orange;
+    background-color: $second-grey;
     font-size: 1.7rem;
     font-weight: 500;
     margin-right: 1rem;;
-    padding: 0.4rem;
+    padding: 0.4rem 0.8rem;
   }
 }
 
@@ -196,13 +233,14 @@ p {
 .ho-project-info {
   p {
     margin: 10px 0;
+    font-weight: 400;
   }
 }
 
 .homeProject {
   background-image: url(/images/whiteboard.jpg);
   margin: 2.7rem 0 0 0;
-  border: 1px solid $backgroundColour;
+  // border: 1px solid $backgroundColour;
   text-align: center;
 }
 
@@ -220,7 +258,7 @@ p {
 }
 
 .about-page {
-  h1, h2 {color: $accentColour;}
+  h1, h2 {color: $main-colour;}
   h1 {display: inline-block;}
 }
 
@@ -249,8 +287,19 @@ p {
     color: $backgroundColour;
     padding: 0.5rem;
     margin: 0 1.5rem 1.5rem 1.5rem;
-    background-color: $accentColour;
-    border-bottom: 3px solid darken($accentColour, 15%);
+
+    background-color: darken($accentColour, 10%);
+    border-bottom: 4px solid darken($accentColour, 20%);
+  }
+
+  .previous-next-button:hover {
+    text-align: center;
+    color: $backgroundColour;
+    padding: 0.5rem;
+    margin: 0 1.5rem 1.5rem 1.5rem;
+    background-color: darken($accentColour, 5%);
+    border-bottom: 4px solid darken($accentColour, 20%);
+
   }
 
   .previous-next-container {
@@ -398,4 +447,20 @@ img {max-width: 100%;}
 .multi-project-page {
   padding-top: 5.4rem;
   border-top: 1px solid $second-grey;
+}
+
+.body-background-b{
+  background-color: $main-colour;
+
+  h1, h2 {
+    color: $secondary-colour;
+  }
+
+  p {
+    color: #FFF;
+  }
+
+  a {
+    color: #FFF;
+  }
 }

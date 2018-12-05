@@ -382,10 +382,14 @@ there.
 /* Nav */
 #home-nav {
   justify-content: flex-end; }
+  #home-nav a {
+    color: #FFF; }
+  #home-nav a:hover {
+    color: #F8B100; }
 
 .current-page {
   margin-bottom: 2.7rem;
-  border-bottom: 1px solid #E46E05; }
+  border-bottom: 1px solid #F8B100; }
 
 .current-page:hover {
   text-decoration: none; }
@@ -410,7 +414,7 @@ there.
     margin-left: 1.2rem; }
   .primary-nav ul a:hover {
     text-decoration: none;
-    border-bottom: 1px solid #E46E05; }
+    border-bottom: 1px solid #F8B100; }
 
 @media (min-width: 550px) {
   .primary-nav ul {
@@ -437,9 +441,6 @@ there.
 .project-blurb {
   padding: 0 0 6rem 0; }
 
-.job-title {
-  color: #E46E05; }
-
 .brief-container p {
   margin-top: 1rem; }
 
@@ -459,14 +460,29 @@ there.
   margin-top: 10.8rem; }
 
 #home-heading {
-  background-color: #97FBF3; }
+  background-color: #2a33be; }
 
 .home-blurb {
   margin: 8.1rem 0 5.4rem 0; }
+  .home-blurb .home-name {
+    color: #FFF; }
+  .home-blurb .job-title {
+    color: #12faf0; }
+  .home-blurb p {
+    color: #FFF;
+    font-size: 19px;
+    line-height: 1.5; }
+  .home-blurb a {
+    color: #FFF;
+    text-decoration: none;
+    border-bottom: 1px solid #FFF; }
+  .home-blurb a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid #F8B100; }
 
 @media (min-width: 550px) {
   .home-blurb {
-    margin: 10.8rem 0 8rem 0; } }
+    margin: 10.8rem 0 12.8rem 0; } }
 
 .ho-home {
   background-image: url("../images/home/whiteboard.jpg"); }
@@ -493,7 +509,7 @@ there.
 
 @media (max-width: 550px) {
   .brief-heading {
-    background-color: #FFC686;
+    background-color: #DBDBDB;
     font-size: inherit;
     font-weight: normal;
     padding: 2px;
@@ -501,14 +517,14 @@ there.
 
 @media (min-width: 550px) {
   .brief-heading {
-    background-color: #FFC686;
+    background-color: #DBDBDB;
     font-size: 1.7rem;
     font-weight: 500;
     margin-right: 1rem;
-    padding: 0.4rem; } }
+    padding: 0.4rem 0.8rem; } }
 
 .highlight-header {
-  color: #E46E05; }
+  color: #F8B100; }
 
 @media (min-width: 550px) {
   .activity-header {
@@ -518,12 +534,12 @@ p a {
   text-decoration: underline; }
 
 .ho-project-info p {
-  margin: 10px 0; }
+  margin: 10px 0;
+  font-weight: 400; }
 
 .homeProject {
   background-image: url(/images/whiteboard.jpg);
   margin: 2.7rem 0 0 0;
-  border: 1px solid #FFF;
   text-align: center; }
 
 .homeProject:hover .home-img-container {
@@ -534,10 +550,10 @@ p a {
   transition: background-color 0.3s ease-out; }
 
 .homeProject:hover p {
-  color: #E46E05; }
+  color: #F8B100; }
 
 .about-page h1, .about-page h2 {
-  color: #E46E05; }
+  color: #2a33be; }
 
 .about-page h1 {
   display: inline-block; }
@@ -564,8 +580,16 @@ p a {
   color: #FFF;
   padding: 0.5rem;
   margin: 0 1.5rem 1.5rem 1.5rem;
-  background-color: #E46E05;
-  border-bottom: 3px solid #994a03; }
+  background-color: #c58d00;
+  border-bottom: 4px solid #926800; }
+
+.previous-next-button:hover {
+  text-align: center;
+  color: #FFF;
+  padding: 0.5rem;
+  margin: 0 1.5rem 1.5rem 1.5rem;
+  background-color: #df9f00;
+  border-bottom: 4px solid #926800; }
 
 .previous-next-container {
   display: flex;
@@ -682,6 +706,15 @@ img {
   padding-top: 5.4rem;
   border-top: 1px solid #DBDBDB; }
 
+.body-background-b {
+  background-color: #2a33be; }
+  .body-background-b h1, .body-background-b h2 {
+    color: #12faf0; }
+  .body-background-b p {
+    color: #FFF; }
+  .body-background-b a {
+    color: #FFF; }
+
 /* Base Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
@@ -694,7 +727,7 @@ body {
   font-size: 1.5em;
   /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 400;
+  font-weight: 300;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333;
   background-color: #FFF; }
@@ -705,7 +738,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Chivo", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 2rem;
-  font-weight: 400; }
+  font-weight: 400;
+  color: #2a33be; }
 
 h1 {
   font-size: 2.4rem;
@@ -758,7 +792,7 @@ h6 {
   p {
     font-size: 1.7rem;
     line-height: 2.7rem;
-    font-weight: 400;
+    font-weight: 300;
     margin-top: 2.7rem;
     margin-bottom: 2.7rem; }
   li {
@@ -777,7 +811,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #E46E05; }
+  color: #F8B100; }
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

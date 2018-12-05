@@ -6,23 +6,23 @@ var browserSync = require('browser-sync').create();
 gulp.task('browserSync', function() {
   browserSync.init({
     server: {
-      baseDir: 'site'
+      baseDir: ''
     },
   })
 })
 
 gulp.task('sass', function() {
-  return gulp.src('site/scss/**/*.scss') // Gets all files ending with .scss in app/scss and children dirs
+  return gulp.src('/scss/**/*.scss') // Gets all files ending with .scss in app/scss and children dirs
     .pipe(sass())
-    .pipe(gulp.dest('site/css'))
+    .pipe(gulp.dest('/css'))
     .pipe(browserSync.reload({
       stream: true
 }))
 });
 
 gulp.task('watch', ['browserSync', 'sass'], function(){
-  gulp.watch('site/scss/**/*.scss', ['sass']);
+  gulp.watch('/scss/**/*.scss', ['sass']);
   // Other watchers
-  gulp.watch('site/*.html', browserSync.reload);
-  gulp.watch('site/js/**/*.js', browserSync.reload);
+  gulp.watch('/*.html', browserSync.reload);
+  gulp.watch('/js/**/*.js', browserSync.reload);
 })
